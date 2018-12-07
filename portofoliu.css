@@ -1,0 +1,13 @@
+.portofoliu {
+  margin: 4em 0;
+  position: relative;
+}
+.portofoliu h1 {
+  color:#F97300;
+  margin: 2em;
+}
+.portofoliu img { 
+  height: 15rem;
+  width: 100%;
+  margin: 1em;
+}
